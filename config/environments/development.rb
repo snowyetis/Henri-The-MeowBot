@@ -1,3 +1,3 @@
-Rails.Application.config do
+Application.config do
 
 end
